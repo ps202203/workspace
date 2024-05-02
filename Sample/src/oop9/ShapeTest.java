@@ -2,7 +2,7 @@ package oop9;
 
 public class ShapeTest {
 	public static void main(String[] args) {
-//		Circle c = new Circle();	//GC발생
+//		Circle c = new Circle();	//GC발생 -> 이를 해결하기 위해 print(new Circle()); 작성
 //		c.area();
 		printArea(new Circle());
 		printArea(new Rectangle());
