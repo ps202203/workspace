@@ -19,3 +19,5 @@ public class RefOfClassConstructor_1 {
 		int[] a = new int[]{1,2,3,4,5};
 	}
 }
+
+
